@@ -29,7 +29,7 @@ export default function About() {
 </p>
 
 <p>
-  <span className="italic">When I&apos;m not coding</span>, I enjoy playing Fifa, Chess, Cricket, watching movies, footballs, cricket and 
+  <span className="italic">When I&apos;m not coding</span>, I enjoy playing Fifa, Card, Chess, Cricket, watching movies, footballs, cricket and 
   spending time with loved ones. I also enjoy <span className="font-medium">learning new technologies</span>.
 </p>
 
