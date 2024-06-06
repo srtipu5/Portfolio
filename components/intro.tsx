@@ -63,7 +63,7 @@ export default function Intro() {
 				animate={{ opacity: 1, y: 0 }}
 			>
 				<span className="font-bold">Hello, I&apos;m Sahiqur Rahman Tipu.</span> I&apos;m a{" "}
-				<span className="font-bold">a backend-focused developer comfortable working with Node.js and Laravel, with a passion for solving critical problems, optimizing system performance, and eager to learn new technologies.</span>
+				<span className="font-bold">backend-focused developer comfortable working with Node.js and Laravel, with a passion for solving critical problems, optimizing system performance, and eager to learn new technologies.</span>
 			</motion.h1>
 
 			<motion.div
