@@ -84,7 +84,7 @@ export const projectsData = [
 	{
 		title: "bKash Payment Gateway NPM Package",
 		description:`Developed two npm package bKash payment gateway, designed to simplify and streamline the process of accepting payments through bKash.`,
-		tags: ["Javascript", "Node.js","bKash AP"],
+		tags: ["Javascript", "Node.js","bKash API"],
 		imageUrl: "/bKash.png",
 	},
 	{
