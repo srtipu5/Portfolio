@@ -97,7 +97,7 @@ export const projectsData = [
 	{
 		title: "myRADAR",
 		description: `A real-time tracking system to monitor and manage vehicles
-		Key Features: Live Tracking, Data Visualization, Alerts and Notifications, Historical Data`,
+		Key Features: Live Tracking, Data Visualization, Alerts & Notifications.`,
 		tags: ["Typescript", "Javascript", "Node.js", "PHP", "Laravel", "MongoDB", "Redis", "Pusher", "Web-socket"],
 		imageUrl: "/myradar.png",
 	},
@@ -109,10 +109,7 @@ export const projectsData = [
 	},
 	{
 		title: "Remote Monitoring System (RMS)",
-		description:`I developed two key systems Battery Management System (BMS) & Rectifier Parser.
-		Designed and implemented the Battery Management System to monitor and manage battery performance. Included real-time monitoring, data logging, and performance analysis to ensure battery efficiency and longevity.
-		
-		Created the Rectifier Parser to process and interpret data from rectifiers. Parsed raw data into meaningful insights, supporting maintenance and operational efficiency through accurate data representation.`,
+		description:`I developed a Battery Management System (BMS) with real-time monitoring and performance analysis, ensuring battery efficiency. Additionally, I created a Rectifier Parser for accurate data representation, supporting maintenance efficiency`,
 		tags: ["Node.js", "PostgreSQL","Redis","Web-socket"],
 		imageUrl: "/rms.jpeg",
 	},
