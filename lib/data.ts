@@ -83,21 +83,13 @@ export const experiencesData = [
 export const projectsData = [
 	{
 		title: "bKash Payment Gateway NPM Package",
-		description:`I developed two npm package for integrating the bKash payment gateway & bKash dynamic charge payment, designed to simplify and streamline the process of accepting payments through bKash in Node.js applications.
-
-		Key Features:
-		
-		Easy Integration: Simplifies the integration of bKash payment services into Node.js projects.
-		Comprehensive API: Provides a robust set of methods for initiating, verifying, and managing bKash transactions.
-		Secure Transactions: Ensures secure handling of payment data with proper encryption and validation mechanisms.
-		Detailed Documentation: Includes thorough documentation to guide developers through the setup and usage process.`,
+		description:`I developed two npm package for integrating the bKash payment gateway & bKash dynamic charge payment, designed to simplify and streamline the process of accepting payments through bKash.`,
 		tags: ["Javascript", "Node.js","bKash AP"],
 		imageUrl: "/bKash.png",
 	},
 	{
 		title: "myRADAR",
-		description: `A real-time tracking system to monitor and manage vehicles
-		Key Features: Live Tracking, Data Visualization, Alerts & Notifications.`,
+		description: `A real-time tracking system to monitor and manage vehicles.`,
 		tags: ["Typescript", "Javascript", "Node.js", "PHP", "Laravel", "MongoDB", "Redis", "Pusher", "Web-socket"],
 		imageUrl: "/myradar.png",
 	},
@@ -109,7 +101,7 @@ export const projectsData = [
 	},
 	{
 		title: "Remote Monitoring System (RMS)",
-		description:`I developed a Battery Management System (BMS) with real-time monitoring and performance analysis, ensuring battery efficiency. Additionally, I created a Rectifier Parser for accurate data representation, supporting maintenance efficiency`,
+		description:`I developed a Battery Management System (BMS) & Rectifier Parser with real-time monitoring, performance analysis, ensuring efficiency & data representation.`,
 		tags: ["Node.js", "PostgreSQL","Redis","Web-socket"],
 		imageUrl: "/rms.jpeg",
 	},
