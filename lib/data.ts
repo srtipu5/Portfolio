@@ -83,7 +83,7 @@ export const experiencesData = [
 export const projectsData = [
 	{
 		title: "bKash Payment Gateway NPM Package",
-		description:`I developed two npm package for integrating the bKash payment gateway & bKash dynamic charge payment, designed to simplify and streamline the process of accepting payments through bKash.`,
+		description:`Developed two npm package bKash payment gateway, designed to simplify and streamline the process of accepting payments through bKash.`,
 		tags: ["Javascript", "Node.js","bKash AP"],
 		imageUrl: "/bKash.png",
 	},
@@ -101,7 +101,7 @@ export const projectsData = [
 	},
 	{
 		title: "Remote Monitoring System (RMS)",
-		description:`I developed a Battery Management System (BMS) & Rectifier Parser with real-time monitoring, performance analysis, ensuring efficiency & data representation.`,
+		description:`Developed Battery Management System (BMS) & Rectifier Parser with real-time monitoring, performance analysis, ensuring efficiency & data representation.`,
 		tags: ["Node.js", "PostgreSQL","Redis","Web-socket"],
 		imageUrl: "/rms.jpeg",
 	},
