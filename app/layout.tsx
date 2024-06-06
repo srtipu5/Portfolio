@@ -10,9 +10,9 @@ import { Toaster } from "react-hot-toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-	title: "Refat | Personal Portfolio",
+	title: "Tipu | Personal Portfolio",
 	description:
-		"Refat is a full-stack developer with almost 2 years of experience.",
+		"Sahiqur Rahman Tipu is a backend developer with almost 3 years of experience.",
 };
 
 export default function RootLayout({
