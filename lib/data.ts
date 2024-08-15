@@ -29,14 +29,12 @@ export const links = [
 ] as const;
 
 export const skillsData = [
-	"JavaScript",
 	"TypeScript",
 	"Node.js",
 	"Express.js",
 	"PHP",
 	"Laravel",
-	"C/C++",
-	"Python",
+	"Golang",
 	"HTML",
 	"CSS",
 	"PostgreSQL",
@@ -50,6 +48,14 @@ export const skillsData = [
 
 export const experiencesData = [
 	{
+		title: "Software Engineer",
+		location: "Technonext Software Ltd.",
+		description:
+			`I have worked as a Backend Developer specializing in Node.js & Golang, contributing to foodi projects.`,
+		icon: React.createElement(CgWorkAlt),
+		date: "July'2024 - Present",
+	},
+	{
 		title: "Software Developer",
 		location: "Hyper Systems Ltd.",
 		description:
@@ -59,7 +65,7 @@ export const experiencesData = [
 			 BIWTA: Designed & developed backend solutions in Node.js.
 			 PGW: Team lead of bKash Payment Gateway project. Developed & maintained backend services using Javascript,Node.js,PHP,Laravel ensuring robust and scalable server-side functionality.`,
 		icon: React.createElement(CgWorkAlt),
-		date: "July'2022 - Present",
+		date: "July'2022 - June'2023",
 	},
 	{
 		title: "Software Developer",
